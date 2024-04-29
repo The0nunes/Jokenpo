@@ -1,1 +1,1 @@
-# Jokenpo
+Este código implementa o jogo de Jokenpo (Pedra, Papel e Tesoura) em Python. Inicia com uma mensagem de boas-vindas e solicita ao jogador que pressione Enter para iniciar. O jogador é então solicitado a inserir seu nome. O jogo prossegue permitindo que o jogador faça uma escolha entre pedra, papel ou tesoura, enquanto o computador escolhe aleatoriamente uma das opções. Após cada rodada, o resultado é exibido, indicando se o jogador ganhou, perdeu ou houve empate. O jogador tem a opção de jogar novamente ou encerrar o jogo.
