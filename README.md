@@ -14,7 +14,7 @@ O programa exibe o resultado da rodada, informando quem venceu ou se houve empat
 
 O jogador pode escolher jogar novamente ou encerrar o jogo.
 
-🛠 Tecnologias usadas
+### 🛠 Tecnologias usadas
 Python 3
 
 Biblioteca random (padrão do Python)
