@@ -1,4 +1,4 @@
-# 🪨📄✂️ Jokenpô em Python
+# ✂️ Jokenpô em Python
 Este projeto implementa o clássico jogo Jokenpô (Pedra, Papel e Tesoura) usando a linguagem Python. A aplicação roda no terminal e proporciona uma experiência interativa entre o jogador e o computador.
 
 ## 🎮 Como funciona
